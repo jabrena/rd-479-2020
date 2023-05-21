@@ -2,7 +2,7 @@
 
 Curso de Especialización de formación profesional en ciberseguridad en entornos de las tecnologías de la información.
 
-# Modulos
+# Módulos
 
 - **[5021. Incidentes de ciberseguridad.](docs/5021.md)**
 - [5022. Bastionado de redes y sistemas.]()
